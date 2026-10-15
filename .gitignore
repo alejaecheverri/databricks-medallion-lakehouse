@@ -1,0 +1,16 @@
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.env
+*.env
+config/config.yaml
+.databricks/
+databricks.yml.local
+data/**
+!data/**/
+!data/**/.gitkeep
+.DS_Store
+.idea/
+.vscode/
